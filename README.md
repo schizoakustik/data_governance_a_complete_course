@@ -1,2 +1,4 @@
 # data_governance_a_complete_course
-Lecture notes and other content for tha course in Data Governance.
+Presentation slides for the course in Data Governance.
+
+Video presentations can be found here: [https://www.youtube.com/playlist?list=PLgzaMbMPEHEyj0g_Tac4etvCQ303sw3CX](https://www.youtube.com/playlist?list=PLgzaMbMPEHEyj0g_Tac4etvCQ303sw3CX)
